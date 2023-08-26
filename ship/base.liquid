@@ -1,0 +1,14 @@
+---
+---
+[
+{% assign ship_count = site.ship | size %}
+{% for ship in site.ship %}
+    {% if ship.data.sort_no > 0 %}
+        {{ ship.data | jsonify }}
+        {% unless forloop.last and forloop.index == ship_count %}
+            ,
+        {% endunless %}
+    {% endif %}
+{% endfor %}
+
+]
