@@ -59,20 +59,40 @@ data:
             amount: 2
       upgrade:
       day:
-        - false
+        -
+          -
+            ship_id: 955
+          -
+            ship_id: 578
         -
           -
             ship_id: 716
+          -
+            ship_id: 960
         -
           -
             ship_id: 716
+          -
+            ship_id: 960
         -
           -
             ship_id: 716
+          -
+            ship_id: 960
+          -
+            ship_id: 955
         -
           -
             ship_id: 716
-        - false
-        - false
+          -
+            ship_id: 960
+          -
+            ship_id: 955
+        -
+          -
+            ship_id: 578
+        -
+          -
+            ship_id: 578
   chinese_name: 
 ---

@@ -4,11 +4,11 @@ data:
   id: 32
   type: 0
   no: 31
-  title: 合宿セット・布団
-  description: こっそり夜まで布団の上で<br>お菓子の交換こ！<br>食べたい…けどねむい…<br>たべた……ねむ…zzz
-  rarity: 0
-  price: 0
-  saleflg: 0
+  title: 友達お泊りの布団
+  description: こっそり夜まで布団の上で<br>お菓子の交換こ！<br>楽しい！<br>食べたい…けどねむい…<br>たべた……ねむ…zzz
+  rarity: 5
+  price: 100
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

@@ -32,5 +32,55 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [20, 0, 90, 150]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [12, 14]
+            -
+              id: 4
+              amount: [7, 8]
+          -
+            -
+              id: 3
+              amount: [16, 22]
+            -
+              id: 4
+              amount: [8, 12]
+        slotitem:
+          -
+            id: 88
+            amount: 2
+          -
+            id: 450
+            amount: 1
+      upgrade:
+      day:
+        - false
+        -
+          -
+            ship_id: 578
+        -
+          -
+            ship_id: 578
+        - false
+        -
+          -
+            ship_id: 955
+          -
+            ship_id: 960
+        -
+          -
+            ship_id: 955
+          -
+            ship_id: 960
+        -
+          -
+            ship_id: 955
+          -
+            ship_id: 960
   chinese_name: 深海栖舰攻 Mark.II
 ---

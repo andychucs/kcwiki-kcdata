@@ -32,5 +32,68 @@ data:
     luck: 0
     leng: 1
   improvement: 
+    -
+      consume:
+        resource: [60, 120, 50, 40]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 3]
+            -
+              id: 4
+              amount: [2, 2]
+          -
+            -
+              id: 3
+              amount: [3, 6]
+            -
+              id: 4
+              amount: [2, 3]
+        slotitem:
+          -
+            id: 14
+            amount: 1
+          -
+            id: 14
+            amount: 2
+      upgrade:
+        id: 512
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [5, 10]
+            -
+              id: 4
+              amount: [4, 5]
+          slotitem:
+            id: 511
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 891
+          -
+            ship_id: 897
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 891
+          -
+            ship_id: 897
+        -
+          -
+            ship_id: 891
+          -
+            ship_id: 897
+        -
+          -
+            ship_id: 891
+          -
+            ship_id: 897
   chinese_name: 6英寸单装炮
 ---
