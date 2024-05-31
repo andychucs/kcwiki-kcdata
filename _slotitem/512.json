@@ -32,5 +32,55 @@ data:
     luck: 0
     leng: 1
   improvement: 
+    -
+      consume:
+        resource: [70, 130, 60, 50]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [5, 6]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [4, 5]
+        slotitem:
+          -
+            id: 511
+            amount: 1
+          -
+            id: 511
+            amount: 2
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 891
+          -
+            ship_id: 897
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 891
+          -
+            ship_id: 897
+        -
+          -
+            ship_id: 891
+          -
+            ship_id: 897
+        -
+          -
+            ship_id: 891
+          -
+            ship_id: 897
   chinese_name: 12.5英寸连装副炮
 ---

@@ -32,5 +32,85 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [480, 480, 0, 600]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [9, 10]
+            -
+              id: 4
+              amount: [6, 7]
+          -
+            -
+              id: 3
+              amount: [13, 19]
+            -
+              id: 4
+              amount: [7, 9]
+        slotitem:
+          -
+            id: 24
+            amount: 2
+          -
+            id: 169
+            amount: 1
+      upgrade:
+        id: 504
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [18, 32]
+            -
+              id: 4
+              amount: [11, 17]
+            -
+              id: 77
+              amount: 3
+          slotitem:
+            id: 180
+            amount: 1
+      day:
+        - false
+        -
+          -
+            ship_id: 138
+          -
+            ship_id: 306
+          -
+            ship_id: 662
+        -
+          -
+            ship_id: 138
+          -
+            ship_id: 306
+          -
+            ship_id: 662
+        -
+          -
+            ship_id: 138
+          -
+            ship_id: 306
+          -
+            ship_id: 662
+          -
+            ship_id: 140
+          -
+            ship_id: 314
+        -
+          -
+            ship_id: 140
+          -
+            ship_id: 314
+        -
+          -
+            ship_id: 140
+          -
+            ship_id: 314
+        - false
   chinese_name: 银河
 ---

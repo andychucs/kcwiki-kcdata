@@ -119,7 +119,7 @@ data:
               amount: 3
           slotitem:
             id: 276
-            amount: 6
+            amount: 1
       day:
         - false
         -

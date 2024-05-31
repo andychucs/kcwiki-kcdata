@@ -32,5 +32,55 @@ data:
     luck: 0
     leng: 2
   improvement: 
+    -
+      consume:
+        resource: [20, 140, 190, 40]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [7, 8]
+            -
+              id: 4
+              amount: [4, 4]
+          -
+            -
+              id: 3
+              amount: [9, 14]
+            -
+              id: 4
+              amount: [6, 7]
+        slotitem:
+          -
+            id: 6
+            amount: 4
+          -
+            id: 6
+            amount: 8
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 502
+          -
+            ship_id: 507
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 502
+          -
+            ship_id: 507
+        -
+          -
+            ship_id: 502
+          -
+            ship_id: 507
+        -
+          -
+            ship_id: 502
+          -
+            ship_id: 507
   chinese_name: 深海栖舰战 Mark.II
 ---

@@ -32,5 +32,63 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [90, 100, 120, 190]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [22, 26]
+            -
+              id: 4
+              amount: [8, 9]
+          -
+            -
+              id: 3
+              amount: [32, 44]
+            -
+              id: 4
+              amount: [9, 11]
+        slotitem:
+          -
+            id: 210
+            amount: 1
+          -
+            id: 210
+            amount: 2
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 155
+          -
+            ship_id: 403
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 493
+          -
+            ship_id: 606
+        -
+          -
+            ship_id: 493
+          -
+            ship_id: 606
+          -
+            ship_id: 155
+          -
+            ship_id: 403
+        -
+          -
+            ship_id: 493
+          -
+            ship_id: 606
+          -
+            ship_id: 155
+          -
+            ship_id: 403
   chinese_name: 潜水艇搭载电探&逆探(E27)
 ---
