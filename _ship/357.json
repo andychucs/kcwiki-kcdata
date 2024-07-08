@@ -6,11 +6,11 @@ data:
   name: 初月改
   yomi: はつづき
   stype: 2
-  ctype: 
+  ctype: 54
   cnum: 
   backs: 7
-  after_lv: 
-  after_ship_id: 
+  after_lv: 88
+  after_ship_id: 968
   get_mes: <br>
   voice_f: 3
   filename: wwuwxxrkzxex
@@ -30,8 +30,8 @@ data:
     tais: 
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 370
+    after_bull: 380
     fuel_max: 20
     bull_max: 25
     broken: [1, 2, 13, 1]

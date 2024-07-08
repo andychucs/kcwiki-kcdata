@@ -6,11 +6,11 @@ data:
   name: 稲木改
   yomi: いなぎ
   stype: 1
-  ctype: 
+  ctype: 117
   cnum: 
   backs: 5
-  after_lv: 
-  after_ship_id: 
+  after_lv: 73
+  after_ship_id: 979
   get_mes: <br>
   voice_f: 1
   filename: ukkfdmbbrugd
@@ -30,8 +30,8 @@ data:
     tais: 
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 220
+    after_bull: 370
     fuel_max: 10
     bull_max: 10
     broken: [1, 1, 1, 0]
