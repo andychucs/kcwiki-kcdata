@@ -2,41 +2,41 @@
 layout: json
 data:
   id: 979
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
+  sort_no: 579
+  name: 稲木改二
+  yomi: いなぎ
+  stype: 1
+  ctype: 117
   cnum: 
-  backs: 
+  backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
+  get_mes: <br>
+  voice_f: 1
   filename: ogyygnnozxrf
   file_version: ["1", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [27, 37]
+    souk: [9, 47]
+    houg: [9, 43]
+    raig: [0, 0]
+    tyku: [27, 77]
+    luck: [17, 87]
+    soku: 5
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
     fuel_max: 
     bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    broken: [1, 1, 1, 0]
+    pow_up: [1, 0, 2, 1]
+    build_time: 9
   graph:
     boko_n: [306, 234]
     boko_d: [306, 234]
@@ -53,8 +53,8 @@ data:
     battle_d: [216, 204]
     wed_a: [132, -12]
     wed_b: [168, 186]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "579"
+  chinese_name: 稻木改二
   can_drop: false
   can_construct: false
 ---

@@ -2,41 +2,41 @@
 layout: json
 data:
   id: 968
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
+  sort_no: 568
+  name: 初月改二
+  yomi: はつづき
+  stype: 2
+  ctype: 54
   cnum: 
-  backs: 
+  backs: 8
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
+  get_mes: <br>
+  voice_f: 3
   filename: vpfhfqunnwts
   file_version: ["1", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [39, 58]
+    souk: [19, 57]
+    houg: [28, 70]
+    raig: [26, 82]
+    tyku: [81, 118]
+    luck: [18, 85]
+    soku: 10
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 4
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 0
+    after_bull: 0
+    fuel_max: 25
+    bull_max: 30
+    broken: [2, 3, 14, 2]
+    pow_up: [2, 1, 4, 1]
+    build_time: 30
   graph:
     boko_n: [318, 168]
     boko_d: [192, 204]
@@ -53,8 +53,8 @@ data:
     battle_d: [144, 156]
     wed_a: [36, 48]
     wed_b: [168, 204]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "568"
+  chinese_name: 初月改二
   can_drop: false
   can_construct: false
 ---
