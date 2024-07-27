@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 969
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 569
+  name: Richelieu Deux
+  yomi: リシュリュー
+  stype: 8
   ctype: 
   cnum: 
-  backs: 
+  backs: 8
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: tqgfuswyxkxx
-  file_version: ["1", "1", "1"]
+  get_mes: <br>
+  voice_f: 3
+  filename: dgsclyungdqe
+  file_version: ["51", "1", "726"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [91, 104]
+    souk: [83, 109]
+    houg: [84, 122]
+    raig: [0, 0]
+    tyku: [40, 86]
+    luck: [28, 118]
+    soku: 10
+    leng: 3
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
+    slot_num: 4
+    max_eq: [2, 2, 4, 4, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 195
+    bull_max: 280
+    broken: [28, 40, 88, 22]
+    pow_up: [6, 0, 3, 5]
+    build_time: 300
   graph:
-    boko_n: [198, 156]
-    boko_d: [192, 204]
-    kaisyu_n: [12, 12]
-    kaisyu_d: [30, -36]
-    kaizo_n: [132, 48]
-    kaizo_d: [108, 72]
-    map_n: [108, 120]
-    map_d: [108, 138]
-    ensyuf_n: [126, 114]
-    ensyuf_d: [120, 126]
-    ensyue_n: [102, 0]
-    battle_n: [168, 144]
-    battle_d: [144, 156]
-    wed_a: [156, 60]
-    wed_b: [186, 210]
+    boko_n: [-407, 199]
+    boko_d: [-81, 289]
+    kaisyu_n: [16, 24]
+    kaisyu_d: [28, 95]
+    kaizo_n: [-381, 85]
+    kaizo_d: [-31, 83]
+    map_n: [-361, 186]
+    map_d: [-23, 222]
+    ensyuf_n: [-365, 182]
+    ensyuf_d: [-51, 188]
+    ensyue_n: [-350, 0]
+    battle_n: [-343, 201]
+    battle_d: [-7, 232]
+    wed_a: [699, -36]
+    wed_b: [134, 199]
   wiki_id: 
   chinese_name: 
   can_drop: false

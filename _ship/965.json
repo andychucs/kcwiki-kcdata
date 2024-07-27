@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 965
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 565
+  name: Gloire
+  yomi: グロワール
+  stype: 3
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: msmgppnlhyls
-  file_version: ["1", "1", "1"]
+  backs: 5
+  after_lv: 52
+  after_ship_id: 970
+  get_mes: 貴方がMon amiralね？ Bonjour! 私、La Galissonnière級<br>軽巡洋艦Gloire !　トリコロール、好きだけれど……ちょっと<br>目立つかしら……あとで着替えてみますね？
+  voice_f: 1
+  filename: qdtvivowgbjo
+  file_version: ["51", "1", "726"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [33, 46]
+    souk: [16, 37]
+    houg: [23, 56]
+    raig: [12, 48]
+    tyku: [32, 68]
+    luck: [22, 82]
+    soku: 10
+    leng: 2
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 3
+    max_eq: [1, 1, 4, 0, 0]
+    after_fuel: 520
+    after_bull: 380
+    fuel_max: 30
+    bull_max: 40
+    broken: [3, 3, 12, 2]
+    pow_up: [2, 0, 2, 2]
+    build_time: 70
   graph:
-    boko_n: [180, 138]
-    boko_d: [223, 240]
-    kaisyu_n: [36, -18]
-    kaisyu_d: [36, -6]
-    kaizo_n: [124, 70]
-    kaizo_d: [165, 85]
-    map_n: [175, 144]
-    map_d: [162, 198]
-    ensyuf_n: [150, 139]
-    ensyuf_d: [165, 196]
-    ensyue_n: [96, 0]
-    battle_n: [184, 144]
-    battle_d: [172, 192]
-    wed_a: [166, 84]
-    wed_b: [141, 180]
+    boko_n: [35, 196]
+    boko_d: [105, 216]
+    kaisyu_n: [30, 2]
+    kaisyu_d: [55, 9]
+    kaizo_n: [37, 79]
+    kaizo_d: [67, 56]
+    map_n: [60, 168]
+    map_d: [101, 190]
+    ensyuf_n: [54, 162]
+    ensyuf_d: [105, 165]
+    ensyue_n: [57, 0]
+    battle_n: [75, 192]
+    battle_d: [135, 206]
+    wed_a: [284, -18]
+    wed_b: [123, 209]
   wiki_id: 
   chinese_name: 
   can_drop: false
