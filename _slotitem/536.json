@@ -3,11 +3,11 @@ layout: json
 order: 536
 data:
   id: 536
-  sort_no: 0
-  name: 劣化徹甲弾
-  type: [4, 25, 19, 13, 0]
-  rare: 1
-  broken: [0, 0, 0, 0]
+  sort_no: 536
+  name: 15.2cm三連装主砲
+  type: [1, 1, 2, 2, 0]
+  rare: 2
+  broken: [0, 2, 5, 1]
   info: 
   usebull: 0
   cost: 9
@@ -15,22 +15,22 @@ data:
   stats:
     taik: 0
     souk: 0
-    houg: 15
+    houg: 7
     raig: 0
     soku: 0
     baku: 0
-    tyku: 0
+    tyku: 2
     tais: 0
     atap: 0
-    houm: 5
-    raim: 8
-    houk: 0
+    houm: 0
+    raim: 0
+    houk: 1
     raik: 0
     bakk: 0
     saku: 0
     sakb: 0
     luck: 0
-    leng: 0
+    leng: 2
   improvement: 
   chinese_name: 劣化撤甲弹
 ---
