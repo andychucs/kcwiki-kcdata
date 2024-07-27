@@ -53,8 +53,8 @@ data:
     battle_d: [-180, 204]
     wed_a: [555, -37]
     wed_b: [109, 201]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "527a"
+  chinese_name: 英勇改
   can_drop: false
   can_construct: false
 ---
