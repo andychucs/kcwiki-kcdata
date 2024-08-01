@@ -1,0 +1,13 @@
+---
+layout: json
+order: 59
+data:
+  id: 59
+  name: 発動！カタパルト作戦
+  maps:zz
+    - 591
+    - 592
+    - 593
+  event: true
+  level: 4
+---

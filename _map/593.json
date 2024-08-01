@@ -1,0 +1,330 @@
+---
+layout: json
+order: 593
+data:
+  id: 593
+  name: 北大西洋/フリータウン/ダカール
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: B1
+    4:
+      from: B
+      to: B2
+    5:
+      from: B
+      to: C
+    6:
+      from: C
+      to: C1
+    7:
+      from: C
+      to: C2
+    8:
+      from: B1
+      to: C
+    9:
+      from: C2
+      to: C3
+    10:
+      from: C3
+      to: D
+    11:
+      from: C3
+      to: E
+    12:
+      from: C3
+      to: F
+    13:
+      from: D
+      to: F
+    14:
+      from: 2
+      to: G
+    15:
+      from: G
+      to: H
+    16:
+      from: H
+      to: H1
+    17:
+      from: H
+      to: H2
+    18:
+      from: H2
+      to: I
+    19:
+      from: I
+      to: J
+    20:
+      from: I
+      to: K
+    21:
+      from: 2
+      to: H
+    22:
+      from: H1
+      to: H2
+    23:
+      from: H
+      to: B2
+    24:
+      from: B2
+      to: H1
+    25:
+      from: null
+      to: 2
+    26:
+      from: 1
+      to: L
+    27:
+      from: L
+      to: M
+    28:
+      from: B1
+      to: N
+    29:
+      from: N
+      to: O
+    30:
+      from: N
+      to: P
+    31:
+      from: P
+      to: Q
+    32:
+      from: Q
+      to: R
+    33:
+      from: Q
+      to: S
+    34:
+      from: O
+      to: P
+    35:
+      from: M
+      to: B1
+    36:
+      from: B1
+      to: P
+    37:
+      from: P
+      to: T
+    38:
+      from: P
+      to: U
+    39:
+      from: T
+      to: V
+    40:
+      from: V
+      to: V1
+    41:
+      from: V
+      to: V2
+    42:
+      from: V
+      to: V3
+    43:
+      from: V3
+      to: W
+    44:
+      from: V3
+      to: X
+    45:
+      from: U
+      to: V
+    46:
+      from: V2
+      to: V3
+    47:
+      from: 3
+      to: P
+    48:
+      from: null
+      to: 3
+    49:
+      from: V
+      to: X
+  cells:
+    A:
+      name: 深海大西洋艦隊 前衛警戒群
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海大西洋潜水艦隊 哨戒線 I群
+      type:
+      boss: false
+      routes: [2]
+    B1:
+      name: 深海大西洋方面 基地航空隊
+      type:
+      boss: false
+      routes: [3, 35]
+    B2:
+      name: 深海大西洋艦隊 巡洋艦戦隊 I群
+      type:
+      boss: false
+      routes: [4, 23]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [5, 8]
+    C1:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    C2:
+      name: 深海大西洋艦隊 艦載機群
+      type:
+      boss: false
+      routes: [7]
+    C3:
+      name: 深海大西洋艦隊 巡洋艦戦隊 III群
+      type:
+      boss: false
+      routes: [9]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    F:
+      name: 深海大西洋艦隊 空母機動部隊
+      type:
+      boss: false
+      routes: [12, 13]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    H:
+      name: 深海大西洋潜水艦隊 哨戒線 II群
+      type:
+      boss: false
+      routes: [15, 21]
+    H1:
+      name: 深海大西洋艦隊 艦載機群
+      type:
+      boss: false
+      routes: [16, 24]
+    H2:
+      name: 深海大西洋艦隊 巡洋艦戦隊 II群
+      type:
+      boss: false
+      routes: [17, 22]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [18]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [19]
+    K:
+      name: 深海大西洋艦隊 反撃突撃集団
+      type:
+      boss: false
+      routes: [20]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [26]
+    M:
+      name: 深海大西洋艦隊 増援警戒線
+      type:
+      boss: false
+      routes: [27]
+    N:
+      name: 深海大西洋潜水艦隊 阻止線 II群
+      type:
+      boss: false
+      routes: [28]
+    O:
+      name: 深海大西洋方面 基地航空隊
+      type:
+      boss: false
+      routes: [29]
+    P:
+      name: 深海大西洋艦隊 警戒戦闘集団
+      type:
+      boss: false
+      routes: [30, 34, 36, 47]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [31]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [32]
+    S:
+      name: 深海大西洋艦隊 出撃戦艦部隊
+      type:
+      boss: false
+      routes: [33]
+    T:
+      name: 深海大西洋潜水艦隊・航空支援
+      type:
+      boss: false
+      routes: [37]
+    U:
+      name: 深海大西洋潜水艦隊 阻止線 I群
+      type:
+      boss: false
+      routes: [38]
+    V:
+      name: 深海大西洋艦隊 高速戦艦戦隊
+      type:
+      boss: false
+      routes: [39, 45]
+    V1:
+      name: 深海Dakar守備要塞群
+      type:
+      boss: false
+      routes: [40]
+    V2:
+      name: 深海大西洋方面 基地航空隊
+      type:
+      boss: false
+      routes: [41]
+    V3:
+      name: 深海大西洋艦隊 Dakar増援部隊
+      type:
+      boss: false
+      routes: [42, 46]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [43]
+    X:
+      name: 深海大西洋艦隊 Dakar港在泊艦隊
+      type:
+      boss: true
+      routes: [44, 49]
+  image: MapHDE-3Summer2024.png
+---

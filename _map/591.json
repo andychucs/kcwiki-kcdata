@@ -1,0 +1,160 @@
+---
+layout: json
+order: 591
+data:
+  id: 591
+  name: ケルト海/イギリス海峡
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: A
+      to: C1
+    5:
+      from: C
+      to: C2
+    6:
+      from: A
+      to: D
+    7:
+      from: C1
+      to: E
+    8:
+      from: E
+      to: F
+    9:
+      from: E
+      to: G
+    10:
+      from: G
+      to: H
+    11:
+      from: C
+      to: C1
+    12:
+      from: C1
+      to: D
+    13:
+      from: D
+      to: E
+    14:
+      from: 2
+      to: I
+    15:
+      from: I
+      to: J
+    16:
+      from: G
+      to: K
+    17:
+      from: K
+      to: L
+    18:
+      from: 2
+      to: J
+    19:
+      from: J
+      to: G
+    20:
+      from: C2
+      to: C1
+    21:
+      from: C2
+      to: L
+    22:
+      from: null
+      to: 2
+    23:
+      from: L
+      to: M
+    24:
+      from: G
+      to: L
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海大西洋艦隊 哨戒潜水艦 I群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    C1:
+      name: 深海大西洋艦隊 警戒部隊 I群
+      type:
+      boss: false
+      routes: [4, 11, 20]
+    C2:
+      name: 深海大西洋艦隊 警戒部隊 II群
+      type:
+      boss: false
+      routes: [5]
+    D:
+      name: 深海大西洋艦隊 叛乱強襲兵団
+      type:
+      boss: false
+      routes: [6, 12]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [7, 13]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    G:
+      name: 深海大西洋方面 基地航空隊
+      type:
+      boss: false
+      routes: [9, 19]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    I:
+      name: 深海大西洋方面 沿岸防備堡塁群
+      type:
+      boss: false
+      routes: [14]
+    J:
+      name: 深海大西洋艦隊 海峡封鎖部隊
+      type:
+      boss: false
+      routes: [15, 18]
+    K:
+      name: 深海大西洋艦隊 哨戒潜水艦 II群
+      type:
+      boss: false
+      routes: [16]
+    L:
+      name: 深海大西洋艦隊 Brest港防衛隊
+      type:
+      boss: false
+      routes: [17, 21, 24]
+    M:
+      name: 深海大西洋艦隊 占領Brest港
+      type:
+      boss: true
+      routes: [23]
+  image: MapHDE-1Summer2024.png
+---
