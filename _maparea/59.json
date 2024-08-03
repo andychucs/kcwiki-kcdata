@@ -4,7 +4,7 @@ order: 59
 data:
   id: 59
   name: 発動！カタパルト作戦
-  maps:zz
+  maps:
     - 591
     - 592
     - 593
