@@ -3,7 +3,7 @@ layout: json
 order: 59
 data:
   id: 59
-  name: 発動！カタパルト作戦
+  name: Operation Menace/新MO作戦
   maps:
     - 591
     - 592
