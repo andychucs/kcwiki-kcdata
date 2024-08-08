@@ -3,31 +3,31 @@ layout: json
 order: 545
 data:
   id: 545
-  sort_no: 0
-  name: 深海ソナー Mk.II
-  type: [7, 10, 14, 18, 0]
-  rare: 3
-  broken: [0, 0, 0, 0]
+  sort_no: 545
+  name: 天山一二型甲改二(村田隊/電探装備)
+  type: [3, 5, 8, 46, 1]
+  rare: 5
+  broken: [3, 6, 0, 6]
   info: 
   usebull: 0
-  cost: 9
-  distance: 8
+  cost: 8
+  distance: 6
   stats:
     taik: 0
     souk: 0
     houg: 0
-    raig: 0
+    raig: 16
     soku: 0
     baku: 0
-    tyku: 0
-    tais: 16
+    tyku: 1
+    tais: 7
     atap: 0
-    houm: 0
+    houm: 3
     raim: 0
     houk: 0
     raik: 0
     bakk: 0
-    saku: 0
+    saku: 6
     sakb: 0
     luck: 0
     leng: 0

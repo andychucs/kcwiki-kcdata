@@ -6,28 +6,28 @@ data:
   name: Gloire改
   yomi: グロワール
   stype: 3
-  ctype: 
-  cnum: 
+  ctype: 128
+  cnum: 5
   backs: 6
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: ehsirfyeskpp
-  file_version: ["51", "1", "726"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "808"]
+  book_table_id: [970]
+  book_sinfo: フランス生まれのLa Galissonnière級軽巡洋艦<br>Gloireです。<br>艦隊は色々あったけど、私はダカールで連合国側に。<br>そして、ニューヨークで改装されたの。栄光の名を持<br>つ軽巡洋艦。私の事も覚えておいてね！
   stats:
     taik: [46, 62]
     souk: [24, 66]
     houg: [30, 75]
     raig: [12, 60]
     tyku: [38, 76]
-    luck: [38, 96]
+    luck: [35, 97]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 38
+    tais: 0
     slot_num: 4
     max_eq: [1, 2, 2, 2, 0]
     after_fuel: 

@@ -6,17 +6,17 @@ data:
   name: Mogador改
   yomi: モガドール
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 129
+  cnum: 1
   backs: 6
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: qtgwnstgzbdp
-  file_version: ["51", "1", "726"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "808"]
+  book_table_id: [967]
+  book_sinfo: Mogador級駆逐艦一番艦、Mogador。自由・平等・<br>博愛の国で建造された高速の大型駆逐艦です。軽巡並<br>みの排水量に充実の武装、最新最大の新鋭艦だったけ<br>ど…地中海を臨む港で、艦隊ごと自沈する最期となっ<br>たわ。今度は目一杯働いてみたい…そう？D’accord　Amiral！
   stats:
     taik: [38, 57]
     souk: [29, 57]
@@ -26,8 +26,8 @@ data:
     luck: [11, 71]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 58
+    tais: 38
     slot_num: 4
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 

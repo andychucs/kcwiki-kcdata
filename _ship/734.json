@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 734
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 1734
+  name: Phoenix改
+  yomi: フェニックス
+  stype: 3
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: wlgclowhlxxd
-  file_version: ["51", "1", "1"]
+  backs: 6
+  after_lv: 75
+  after_ship_id: 957
+  get_mes: <br>
+  voice_f: 3
+  filename: cvxermkbntxk
+  file_version: ["51", "1", "808"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [53, 67]
+    souk: [26, 68]
+    houg: [33, 77]
+    raig: [0, 39]
+    tyku: [36, 79]
+    luck: [38, 98]
+    soku: 10
+    leng: 2
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 4
+    max_eq: [0, 0, 2, 4, 0]
+    after_fuel: 780
+    after_bull: 680
+    fuel_max: 35
+    bull_max: 60
+    broken: [4, 7, 17, 2]
+    pow_up: [2, 0, 2, 2]
+    build_time: 70
   graph:
-    boko_n: [168, 192]
-    boko_d: [168, 192]
-    kaisyu_n: [12, -24]
-    kaisyu_d: [96, 48]
-    kaizo_n: [120, 90]
-    kaizo_d: [102, 55]
-    map_n: [144, 156]
-    map_d: [144, 156]
-    ensyuf_n: [126, 162]
-    ensyuf_d: [126, 162]
-    ensyue_n: [120, 0]
-    battle_n: [168, 192]
-    battle_d: [168, 192]
-    wed_a: [210, 18]
-    wed_b: [132, 180]
+    boko_n: [130, 243]
+    boko_d: [14, 264]
+    kaisyu_n: [120, 73]
+    kaisyu_d: [67, 62]
+    kaizo_n: [116, 134]
+    kaizo_d: [17, 80]
+    map_n: [233, 197]
+    map_d: [48, 179]
+    ensyuf_n: [246, 181]
+    ensyuf_d: [44, 141]
+    ensyue_n: [239, 0]
+    battle_n: [290, 211]
+    battle_d: [64, 183]
+    wed_a: [76, -30]
+    wed_b: [119, 204]
   wiki_id: 
   chinese_name: 
   can_drop: false
