@@ -6,17 +6,17 @@ data:
   name: Gloire
   yomi: グロワール
   stype: 3
-  ctype: 
-  cnum: 
+  ctype: 128
+  cnum: 5
   backs: 5
   after_lv: 52
   after_ship_id: 970
   get_mes: 貴方がMon amiralね？ Bonjour! 私、La Galissonnière級<br>軽巡洋艦Gloire !　トリコロール、好きだけれど……ちょっと<br>目立つかしら……あとで着替えてみますね？
   voice_f: 1
   filename: qdtvivowgbjo
-  file_version: ["51", "1", "726"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "808"]
+  book_table_id: [965]
+  book_sinfo: フランス生まれのLa Galissonnière級軽巡洋艦<br>Gloireです。<br>艦隊は色々あったけど、私はダカールで連合国側に。<br>そして、ニューヨークで改装されたの。栄光の名を持<br>つ軽巡洋艦。私の事も覚えておいてね！
   stats:
     taik: [33, 46]
     souk: [16, 37]
@@ -26,8 +26,8 @@ data:
     luck: [22, 82]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 32
+    tais: 0
     slot_num: 3
     max_eq: [1, 1, 4, 0, 0]
     after_fuel: 520

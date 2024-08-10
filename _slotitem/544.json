@@ -3,31 +3,31 @@ layout: json
 order: 544
 data:
   id: 544
-  sort_no: 0
-  name: 深海爆雷投射機 Mk.II
-  type: [7, 9, 15, 17, 0]
+  sort_no: 544
+  name: SBD VB-2(爆撃飛行隊)
+  type: [3, 5, 7, 7, 21]
   rare: 3
-  broken: [0, 0, 0, 0]
+  broken: [1, 3, 0, 3]
   info: 
   usebull: 0
-  cost: 9
-  distance: 8
+  cost: 5
+  distance: 4
   stats:
     taik: 0
     souk: 0
-    houg: 0
+    houg: 3
     raig: 0
     soku: 0
-    baku: 0
-    tyku: 0
-    tais: 13
+    baku: 8
+    tyku: 2
+    tais: 4
     atap: 0
-    houm: 0
+    houm: 2
     raim: 0
-    houk: 0
+    houk: 3
     raik: 0
     bakk: 0
-    saku: 0
+    saku: 2
     sakb: 0
     luck: 0
     leng: 0

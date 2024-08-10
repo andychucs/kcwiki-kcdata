@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 966
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 566
+  name: Lexington
+  yomi: レキシントン
+  stype: 11
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: mekkbgipvqth
-  file_version: ["1", "1", "1"]
+  backs: 6
+  after_lv: 40
+  after_ship_id: 735
+  get_mes: Lexington級航空母艦Name ship、USS Lexingtonです。Lady <br>Lex とも呼ばれているわ。太平洋艦隊に配属され、日本空母<br>機動部隊と対峙したわ。Admiral、私の事もよろしく頼むわね。
+  voice_f: 1
+  filename: erhlwuihpcnw
+  file_version: ["51", "1", "808"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [84, 94]
+    souk: [40, 64]
+    houg: [30, 46]
+    raig: [0, 0]
+    tyku: [36, 72]
+    luck: [15, 70]
+    soku: 10
+    leng: 2
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 4
+    max_eq: [27, 19, 19, 15, 0]
+    after_fuel: 1100
+    after_bull: 800
+    fuel_max: 65
+    bull_max: 70
+    broken: [9, 16, 43, 10]
+    pow_up: [2, 0, 4, 5]
+    build_time: 330
   graph:
-    boko_n: [180, 138]
-    boko_d: [223, 240]
-    kaisyu_n: [36, -18]
-    kaisyu_d: [36, -6]
-    kaizo_n: [124, 70]
-    kaizo_d: [165, 85]
-    map_n: [175, 144]
-    map_d: [162, 198]
-    ensyuf_n: [150, 139]
-    ensyuf_d: [165, 196]
-    ensyue_n: [96, 0]
-    battle_n: [184, 144]
-    battle_d: [172, 192]
-    wed_a: [166, 84]
-    wed_b: [141, 180]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [98, 179]
+    boko_d: [10, 242]
+    kaisyu_n: [40, 14]
+    kaisyu_d: [82, 23]
+    kaizo_n: [100, 64]
+    kaizo_d: [29, 61]
+    map_n: [118, 159]
+    map_d: [128, 229]
+    ensyuf_n: [115, 150]
+    ensyuf_d: [128, 177]
+    ensyue_n: [112, 0]
+    battle_n: [135, 181]
+    battle_d: [150, 245]
+    wed_a: [226, -15]
+    wed_b: [121, 197]
+  wiki_id: "566"
+  chinese_name: 列克星敦
   can_drop: false
   can_construct: false
 ---
