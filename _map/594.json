@@ -1,0 +1,315 @@
+---
+layout: json
+order: 594
+data:
+  id: 594
+  name: 太平洋南部/ダバオ沖/ビアク島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A1
+    2:
+      from: 1
+      to: A
+    3:
+      from: A
+      to: A2
+    4:
+      from: A2
+      to: B
+    5:
+      from: A2
+      to: C
+    6:
+      from: B
+      to: D
+    7:
+      from: D
+      to: E
+    8:
+      from: D
+      to: F
+    9:
+      from: F
+      to: F1
+    10:
+      from: F
+      to: F2
+    11:
+      from: F1
+      to: G
+    12:
+      from: G
+      to: H
+    13:
+      from: C
+      to: I
+    14:
+      from: I
+      to: J
+    15:
+      from: G
+      to: K
+    16:
+      from: C
+      to: L
+    17:
+      from: A1
+      to: A
+    18:
+      from: J
+      to: K
+    19:
+      from: I
+      to: L
+    20:
+      from: J
+      to: L
+    21:
+      from: C
+      to: M
+    22:
+      from: M
+      to: N
+    23:
+      from: M
+      to: O
+    24:
+      from: O
+      to: P
+    25:
+      from: P
+      to: Q
+    26:
+      from: Q
+      to: R
+    27:
+      from: Q
+      to: S
+    28:
+      from: N
+      to: O
+    29:
+      from: 2
+      to: T
+    30:
+      from: T
+      to: T1
+    31:
+      from: T
+      to: T2
+    32:
+      from: T2
+      to: U
+    33:
+      from: U
+      to: U1
+    34:
+      from: U1
+      to: U2
+    35:
+      from: U2
+      to: V
+    36:
+      from: T1
+      to: T2
+    37:
+      from: null
+      to: 2
+    38:
+      from: V
+      to: W
+    39:
+      from: W
+      to: X
+    40:
+      from: X
+      to: Y
+    41:
+      from: W
+      to: Z
+    42:
+      from: X
+      to: Z
+    43:
+      from: Y
+      to: Z
+    44:
+      from: X
+      to: K
+  cells:
+    A1:
+      name: 深海太平洋艦隊 Dabaw哨戒 II群
+      type:
+      boss: false
+      routes: [1]
+    A:
+      name: 深海太平洋艦隊 Dabaw哨戒 I群
+      type:
+      boss: false
+      routes: [2, 17]
+    A2:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    B:
+      name: 深海太平洋艦隊 前衛偵察隊 B群
+      type:
+      boss: false
+      routes: [4]
+    C:
+      name: 深海太平洋艦隊 前衛偵察隊 A群
+      type:
+      boss: false
+      routes: [5]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    E:
+      name: 深海太平洋艦隊 前衛任務部隊
+      type:
+      boss: false
+      routes: [7]
+    F:
+      name: 深海太平洋艦隊 空母艦載機群
+      type:
+      boss: false
+      routes: [8]
+    F1:
+      name: 深海太平洋艦隊 重巡洋艦戦隊
+      type:
+      boss: false
+      routes: [9]
+    F2:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    G:
+      name: 深海太平洋艦隊 空母艦載機群
+      type:
+      boss: false
+      routes: [11]
+    H:
+      name: 深海太平洋艦隊 先遣任務部隊
+      type:
+      boss: false
+      routes: [12]
+    I:
+      name: 深海太平洋艦隊 空母艦載機群
+      type:
+      boss: false
+      routes: [13]
+    J:
+      name: 深海太平洋艦隊 油槽艦部隊
+      type:
+      boss: false
+      routes: [14]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [15, 18, 44]
+    L:
+      name: 深海太平洋艦隊 前衛戦闘集団
+      type:
+      boss: false
+      routes: [16, 19, 20]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    N:
+      name: 深海太平洋艦隊 Halmahera哨戒
+      type:
+      boss: false
+      routes: [22]
+    O:
+      name: 深海太平洋方面 基地航空隊
+      type:
+      boss: false
+      routes: [23, 28]
+    P:
+      name: 深海太平洋艦隊 海峡警備部隊
+      type:
+      boss: false
+      routes: [24]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [25]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [26]
+    S:
+      name: 深海太平洋艦隊 強攻輸送部隊
+      type:
+      boss: false
+      routes: [27]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [29]
+    T1:
+      name: 深海潜水Tawi-Tawi警戒部隊 II群
+      type:
+      boss: false
+      routes: [30]
+    T2:
+      name: 深海潜水Tawi-Tawi警戒部隊 I群
+      type:
+      boss: false
+      routes: [31, 36]
+    U:
+      name: 深海太平洋方面 水雷艇戦隊
+      type:
+      boss: false
+      routes: [32]
+    U1:
+      name: 深海太平洋方面 基地航空隊
+      type:
+      boss: false
+      routes: [33]
+    U2:
+      name: 
+      type:
+      boss: false
+      routes: [34]
+    V:
+      name: 深海太平洋艦隊 Biak島沖駆逐隊
+      type:
+      boss: false
+      routes: [35]
+    W:
+      name: 深海太平洋艦隊 高速水上打撃群
+      type:
+      boss: false
+      routes: [38]
+    X:
+      name: 深海太平洋艦隊 空母艦載機群
+      type:
+      boss: false
+      routes: [39]
+    Y:
+      name: 深海太平洋艦隊 Biak島沖哨戒群
+      type:
+      boss: false
+      routes: [40]
+    Z:
+      name: 深海太平洋艦隊 Biak島攻略主力
+      type:
+      boss: true
+      routes: [41, 42, 43]
+  image: MapHDE-43Summer2024.png
+---

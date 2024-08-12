@@ -1,0 +1,399 @@
+---
+layout: json
+order: 595
+data:
+  id: 595
+  name: ラバウル沖/珊瑚海方面
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A1
+    2:
+      from: A1
+      to: A2
+    3:
+      from: 1
+      to: A
+    4:
+      from: A
+      to: B
+    5:
+      from: B
+      to: C
+    6:
+      from: C
+      to: C1
+    7:
+      from: C
+      to: C2
+    8:
+      from: A1
+      to: A
+    9:
+      from: A2
+      to: A
+    10:
+      from: 2
+      to: D
+    11:
+      from: D
+      to: E
+    12:
+      from: E
+      to: F
+    13:
+      from: E
+      to: G
+    14:
+      from: G
+      to: H
+    15:
+      from: G
+      to: I
+    16:
+      from: I
+      to: J
+    17:
+      from: J
+      to: K
+    18:
+      from: J
+      to: L
+    19:
+      from: 2
+      to: E
+    20:
+      from: F
+      to: G
+    21:
+      from: null
+      to: 2
+    22:
+      from: 3
+      to: M
+    23:
+      from: M
+      to: M1
+    24:
+      from: M1
+      to: M2
+    25:
+      from: M2
+      to: M3
+    26:
+      from: M2
+      to: N
+    27:
+      from: N
+      to: O
+    28:
+      from: O
+      to: O1
+    29:
+      from: O
+      to: O2
+    30:
+      from: O2
+      to: P
+    31:
+      from: O2
+      to: Q
+    32:
+      from: Q
+      to: R1
+    33:
+      from: R1
+      to: R2
+    34:
+      from: R1
+      to: R3
+    35:
+      from: Q
+      to: R
+    36:
+      from: M3
+      to: N
+    37:
+      from: O1
+      to: O2
+    38:
+      from: R1
+      to: R
+    39:
+      from: R2
+      to: R
+    40:
+      from: null
+      to: 3
+    41:
+      from: H
+      to: S
+    42:
+      from: S
+      to: S1
+    43:
+      from: S
+      to: S2
+    44:
+      from: S
+      to: T
+    45:
+      from: T
+      to: U
+    46:
+      from: T
+      to: V
+    47:
+      from: S2
+      to: S1
+    48:
+      from: S1
+      to: T
+    49:
+      from: S2
+      to: T
+    50:
+      from: P
+      to: W
+    51:
+      from: W
+      to: X
+    52:
+      from: Z
+      to: Y
+    53:
+      from: W
+      to: Z
+    54:
+      from: Z
+      to: Z1
+    55:
+      from: Z1
+      to: Z2
+    56:
+      from: Z
+      to: ZZ
+    57:
+      from: Z1
+      to: ZZ
+  cells:
+    A1:
+      name: 深海太平洋艦隊 Rabaul西警戒群
+      type:
+      boss: false
+      routes: [1]
+    A2:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    A:
+      name: 深海太平洋方面 基地航空隊
+      type:
+      boss: false
+      routes: [3, 8, 9]
+    B:
+      name: 深海任務部隊 Rabaul増援阻止線
+      type:
+      boss: false
+      routes: [4]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    C1:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    C2:
+      name: 深海太平洋艦隊 Rabaul強襲部隊
+      type:
+      boss: false
+      routes: [7]
+    D:
+      name: 深海太平洋艦隊 Rabaul南警戒群
+      type:
+      boss: false
+      routes: [10]
+    E:
+      name: 深海太平洋艦隊 Rabaul東警戒群
+      type:
+      boss: false
+      routes: [11, 19]
+    F:
+      name: 深海太平洋艦隊 空母艦載機群
+      type:
+      boss: false
+      routes: [12]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [13, 20]
+    H:
+      name: 深海太平洋方面 基地航空隊
+      type:
+      boss: false
+      routes: [14]
+    I:
+      name: 深海太平洋艦隊 空母艦載機群
+      type:
+      boss: false
+      routes: [15]
+    J:
+      name: 深海任務部隊 第I群 随伴駆逐隊
+      type:
+      boss: false
+      routes: [16]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [17]
+    L:
+      name: 深海太平洋艦隊 任務部隊 第I群
+      type:
+      boss: false
+      routes: [18]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [22]
+    M1:
+      name: 深海太平洋艦隊 偵察潜水艦群
+      type:
+      boss: false
+      routes: [23]
+    M2:
+      name: 深海太平洋艦隊 空母艦載機群
+      type:
+      boss: false
+      routes: [24]
+    M3:
+      name: 
+      type:
+      boss: false
+      routes: [25]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [26, 36]
+    O:
+      name: 深海太平洋艦隊 前衛任務部隊
+      type:
+      boss: false
+      routes: [27]
+    O1:
+      name: 深海太平洋艦隊 空母艦載機群
+      type:
+      boss: false
+      routes: [28]
+    O2:
+      name: 
+      type:
+      boss: false
+      routes: [29, 37]
+    P:
+      name: 深海太平洋艦隊 空母艦載機群
+      type:
+      boss: false
+      routes: [30]
+    Q:
+      name: 深海任務部隊 第II群 前衛集団
+      type:
+      boss: false
+      routes: [31]
+    R1:
+      name: 深海太平洋艦隊 空母艦載機群
+      type:
+      boss: false
+      routes: [32]
+    R2:
+      name: 深海太平洋艦隊 空母艦載機群
+      type:
+      boss: false
+      routes: [33]
+    R3:
+      name: 
+      type:
+      boss: false
+      routes: [34]
+    R:
+      name: 深海太平洋艦隊 任務部隊 第II群
+      type:
+      boss: false
+      routes: [35, 38, 39]
+    S:
+      name: 深海Louisiade沖 警備封鎖部隊
+      type:
+      boss: false
+      routes: [41]
+    S1:
+      name: 深海太平洋方面 基地航空隊
+      type:
+      boss: false
+      routes: [42, 47]
+    S2:
+      name: 深海Port Moresby 潜水艦哨戒線
+      type:
+      boss: false
+      routes: [43]
+    T:
+      name: 深海Port Moresby 警備部隊
+      type:
+      boss: false
+      routes: [44, 48, 49]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [45]
+    V:
+      name: 深海Port Moresby 港湾要塞
+      type:
+      boss: false
+      routes: [46]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [50]
+    X:
+      name: 深海太平洋艦隊 任務部隊 第III群
+      type:
+      boss: false
+      routes: [51]
+    Y:
+      name: 深海第17任務部隊付属 第V群
+      type:
+      boss: false
+      routes: [52]
+    Z:
+      name: 深海太平洋艦隊 随伴重巡戦隊
+      type:
+      boss: false
+      routes: [53]
+    Z1:
+      name: 深海機動部隊 随伴護衛潜水艦隊
+      type:
+      boss: false
+      routes: [54]
+    Z2:
+      name: 
+      type:
+      boss: false
+      routes: [55]
+    ZZ:
+      name: 深海太平洋艦隊 第17任務部隊
+      type:
+      boss: true
+      routes: [56, 57]
+  image: MapHDE-5Summer2024.png
+---
