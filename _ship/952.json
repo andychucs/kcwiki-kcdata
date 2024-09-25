@@ -6,17 +6,17 @@ data:
   name: Phoenix
   yomi: フェニックス
   stype: 3
-  ctype: 
-  cnum: 
+  ctype: 110
+  cnum: 5
   backs: 5
   after_lv: 45
   after_ship_id: 734
   get_mes: Hi! Brooklyn級のPhoenixさまよ!<br>そう、あたしこそが不死鳥のPhoenixってわけ!<br>あ、ちっこい不死鳥じゃないからね! OK?
   voice_f: 1
   filename: cbrpxngutbud
-  file_version: ["51", "1", "808"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "924"]
+  book_table_id: [952, 734]
+  book_sinfo: Hi! Brooklyn級軽巡のPhoenixさ。真珠湾やあの海峡、<br>太平洋戦域で戦ったよ。マジで。でね、戦いが終わっ<br>て退役した後、売却されてヘネラル・ベルグラノって<br>名前になって…最期はフォークランド諸島の紛争って<br>わけ。あたしのこと、その色々、知っていて。
   stats:
     taik: [38, 56]
     souk: [16, 39]
@@ -26,8 +26,8 @@ data:
     luck: [19, 79]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 31
+    tais: 0
     slot_num: 3
     max_eq: [0, 1, 3, 0, 0]
     after_fuel: 480
@@ -55,6 +55,6 @@ data:
     wed_b: [119, 204]
   wiki_id: "552"
   chinese_name: 凤凰城
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---
