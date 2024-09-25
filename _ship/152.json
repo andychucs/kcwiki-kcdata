@@ -9,12 +9,12 @@ data:
   ctype: 6
   cnum: 4
   backs: 7
-  after_lv: 
-  after_ship_id: 
+  after_lv: 89
+  after_ship_id: 694
   get_mes: <br>
   voice_f: 3
   filename: kspwuqsyhipy
-  file_version: ["14", "32", "808"]
+  file_version: ["14", "32", "924"]
   book_table_id: [152]
   book_sinfo: 霧島です。姉妹艦の榛名には、頭脳は負けないわよ？<br>純国産高速戦艦として、奮戦するんだからっ！<br>現代の海自イージス艦にもその名は受け継がれたの。
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 0
     slot_num: 4
     max_eq: [3, 3, 3, 3, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 7800
+    after_bull: 8900
     fuel_max: 100
     bull_max: 125
     broken: [10, 14, 33, 3]

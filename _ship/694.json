@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 694
+  sort_no: 394
+  name: 霧島改二丙
+  yomi: きりしま
+  stype: 8
+  ctype: 6
+  cnum: 4
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: yfwhjztdtlud
+  file_version: ["51", "1", "924"]
+  book_table_id: [694]
+  book_sinfo: 霧島です。姉妹艦の榛名には、頭脳は負けないわよ？<br>純国産高速戦艦として、奮戦するんだからっ！<br>現代の海自イージス艦にもその名は受け継がれたの。
+  stats:
+    taik: [85, 98]
+    souk: [71, 92]
+    houg: [79, 106]
+    raig: [17, 40]
+    tyku: [32, 82]
+    luck: [16, 90]
+    soku: 10
+    leng: 3
+    kaih: 39
+    tais: 0
+    slot_num: 4
+    max_eq: [2, 2, 4, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 100
+    bull_max: 160
+    broken: [14, 19, 38, 4]
+    pow_up: [4, 1, 2, 4]
+    build_time: 240
+  graph:
+    boko_n: [-264, 210]
+    boko_d: [-75, 257]
+    kaisyu_n: [21, 21]
+    kaisyu_d: [42, -57]
+    kaizo_n: [-210, 100]
+    kaizo_d: [-54, 85]
+    map_n: [-225, 209]
+    map_d: [-24, 216]
+    ensyuf_n: [-232, 186]
+    ensyuf_d: [-29, 200]
+    ensyue_n: [-238, 0]
+    battle_n: [-201, 199]
+    battle_d: [-8, 225]
+    wed_a: [599, -36]
+    wed_b: [93, 187]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---
