@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 956
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 556
+  name: 早霜改二
+  yomi: はやしも
+  stype: 2
+  ctype: 38
+  cnum: 17
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: oofsntihjfmn
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: tnkvticvcukq
+  file_version: ["51", "1", "1018"]
+  book_table_id: [956]
+  book_sinfo: 夕雲型駆逐艦、その十七番目、早霜です。<br>舞鶴海軍工廠生まれ。だいぶ押し迫った頃に生まれま<br>した。レイテ沖海戦にリンガ泊地から出撃して…色々<br>な光景を見ました。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [33, 56]
+    souk: [15, 53]
+    houg: [18, 67]
+    raig: [29, 84]
+    tyku: [20, 72]
+    luck: [18, 78]
+    soku: 10
+    leng: 1
+    kaih: 49
+    tais: 28
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 24
   graph:
-    boko_n: [288, 222]
-    boko_d: [258, 264]
-    kaisyu_n: [15, 7]
-    kaisyu_d: [39, 22]
-    kaizo_n: [216, 132]
-    kaizo_d: [144, 120]
-    map_n: [192, 192]
-    map_d: [144, 216]
-    ensyuf_n: [228, 198]
-    ensyuf_d: [156, 198]
-    ensyue_n: [216, 0]
-    battle_n: [216, 204]
-    battle_d: [192, 228]
-    wed_a: [102, -12]
-    wed_b: [192, 168]
+    boko_n: [78, 139]
+    boko_d: [-33, 153]
+    kaisyu_n: [39, 3]
+    kaisyu_d: [58, 18]
+    kaizo_n: [86, 32]
+    kaizo_d: [4, 13]
+    map_n: [105, 122]
+    map_d: [35, 138]
+    ensyuf_n: [100, 115]
+    ensyuf_d: [30, 126]
+    ensyue_n: [110, 0]
+    battle_n: [122, 129]
+    battle_d: [52, 149]
+    wed_a: [235, 30]
+    wed_b: [120, 207]
   wiki_id: 
   chinese_name: 
   can_drop: false
