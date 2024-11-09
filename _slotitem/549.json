@@ -3,31 +3,31 @@ layout: json
 order: 549
 data:
   id: 549
-  sort_no: 0
-  name: 深海復讐艦攻
-  type: [3, 5, 8, 8, 0]
-  rare: 3
-  broken: [0, 0, 0, 0]
+  sort_no: 549
+  name: 三式指揮連絡機改二
+  type: [3, 16, 26, 22, 54]
+  rare: 4
+  broken: [2, 3, 0, 3]
   info: 
   usebull: 0
-  cost: 9
-  distance: 8
+  cost: 5
+  distance: 3
   stats:
     taik: 0
     souk: 0
-    houg: 0
-    raig: 13
+    houg: 2
+    raig: 0
     soku: 0
-    baku: 0
-    tyku: 4
-    tais: 5
+    baku: 2
+    tyku: 0
+    tais: 10
     atap: 0
     houm: 2
     raim: 0
     houk: 0
     raik: 0
     bakk: 0
-    saku: 5
+    saku: 3
     sakb: 0
     luck: 0
     leng: 0
