@@ -13,9 +13,9 @@ data:
   after_ship_id: 976
   get_mes: 伊号潜、巡潜乙型、伊36です。<br>そう、一番量産された主力オブ主力の伊号潜、です。<br>呼び方ですか？　みぃむ…はどうでしょう……いい？
   voice_f: 1
-  filename: hfvekwbfjvxq
-  file_version: ["52", "1", "1108"]
-  book_table_id: [971]
+  filename: hfvekwbfjvxs
+  file_version: ["53", "1", "1203"]
+  book_table_id: [971, 5910]
   book_sinfo: 伊号潜水艦、主力として量産された巡潜乙型、その<br>17番艦伊36です。太平洋を南へ北へと目一杯奮戦し<br>ました。数々の厳しい作戦に参加しましたが、名艦長<br>の指揮の下、戦いの終わる夏の日まで艦は生き残るこ<br>ととなりました。最期は、伊47たちと共に五島列島沖<br>で眠りにつきます。
   stats:
     taik: [14, 18]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 1, 0]
     build_time: 22
   graph:
-    boko_n: [198, 220]
-    boko_d: [198, 220]
+    boko_n: [159, 218]
+    boko_d: [139, 279]
     kaisyu_n: [4, -1]
     kaisyu_d: [18, 15]
-    kaizo_n: [205, 101]
-    kaizo_d: [190, 66]
-    map_n: [220, 185]
-    map_d: [220, 185]
-    ensyuf_n: [218, 175]
-    ensyuf_d: [218, 175]
-    ensyue_n: [219, 0]
-    battle_n: [240, 201]
-    battle_d: [240, 201]
-    wed_a: [128, -41]
-    wed_b: [108, 217]
+    kaizo_n: [169, 99]
+    kaizo_d: [136, 122]
+    map_n: [178, 189]
+    map_d: [166, 228]
+    ensyuf_n: [178, 182]
+    ensyuf_d: [178, 188]
+    ensyue_n: [180, 0]
+    battle_n: [199, 203]
+    battle_d: [203, 230]
+    wed_a: [166, -40]
+    wed_b: [107, 216]
   wiki_id: "571"
   chinese_name: 伊36
   can_drop: false

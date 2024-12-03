@@ -13,8 +13,8 @@ data:
   after_ship_id: 733
   get_mes: 僕がQueen Elizabeth級戦艦、Valiantだ。<br>そう。勇敢な、勇気そのものの名だ。君が…Admiral？<br>It’s so lovely meeting you.
   voice_f: 1
-  filename: vrxkdhhhanyf
-  file_version: ["51", "2", "1108"]
+  filename: vrxkdhhhanxs
+  file_version: ["52", "3", "1203"]
   book_table_id: [927]
   book_sinfo: Queen Elizabeth級戦艦、Valiantだ。<br>そうだな、Force H、そして地中海艦隊、さらに東洋<br>艦隊の一翼として、太平洋戦域にも出動した。まあ、<br>僕は戦艦だからな。当然の責務だ。ああ、姉貴か……<br>凄い奴ではあるが。まぁ、気をつけるさ。今度は。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 4]
     build_time: 280
   graph:
-    boko_n: [-225, 204]
-    boko_d: [-205, 205]
+    boko_n: [113, 189]
+    boko_d: [-22, 215]
     kaisyu_n: [17, 28]
     kaisyu_d: [22, 22]
-    kaizo_n: [-218, 82]
-    kaizo_d: [-233, 48]
-    map_n: [-197, 171]
-    map_d: [-199, 178]
-    ensyuf_n: [-201, 173]
-    ensyuf_d: [-201, 171]
-    ensyue_n: [-202, 0]
-    battle_n: [-192, 201]
-    battle_d: [-180, 204]
-    wed_a: [555, -37]
-    wed_b: [109, 201]
+    kaizo_n: [117, 71]
+    kaizo_d: [-7, 76]
+    map_n: [142, 166]
+    map_d: [21, 200]
+    ensyuf_n: [141, 169]
+    ensyuf_d: [11, 198]
+    ensyue_n: [147, 0]
+    battle_n: [171, 185]
+    battle_d: [47, 225]
+    wed_a: [221, -42]
+    wed_b: [86, 217]
   wiki_id: "527"
   chinese_name: 英勇
   can_drop: false

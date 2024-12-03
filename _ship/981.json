@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 981
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 581
+  name: 藤波改二
+  yomi: ふじなみ
+  stype: 2
+  ctype: 38
+  cnum: 11
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: bsrgsmwdvhmo
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: wziuqfplfcgx
+  file_version: ["51", "1", "1203"]
+  book_table_id: [981]
+  book_sinfo: 艦隊型駆逐艦の決定版、夕雲型の十一番艦、藤波だ<br>よ。三十二駆、そして十一水戦でデビューしたんだ。<br>かなり状況は良くなかったけど、できる限り頑張った<br>よ。最期は華の二水戦で、艦隊決戦、捷一号作戦に参<br>加した…うん…辛かったな。でも、やれるだけはやっ<br>たんだ。覚えておいてね！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [33, 56]
+    souk: [15, 54]
+    houg: [18, 64]
+    raig: [30, 88]
+    tyku: [28, 79]
+    luck: [21, 88]
+    soku: 10
+    leng: 1
+    kaih: 47
+    tais: 30
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 24
   graph:
-    boko_n: [126, 222]
-    boko_d: [114, 270]
-    kaisyu_n: [36, 18]
-    kaisyu_d: [48, -12]
-    kaizo_n: [24, 144]
-    kaizo_d: [30, 168]
-    map_n: [42, 204]
-    map_d: [60, 204]
-    ensyuf_n: [54, 198]
-    ensyuf_d: [42, 198]
-    ensyue_n: [42, 0]
-    battle_n: [60, 216]
-    battle_d: [66, 222]
-    wed_a: [282, -6]
-    wed_b: [174, 156]
+    boko_n: [-26, 140]
+    boko_d: [-17, 175]
+    kaisyu_n: [21, -8]
+    kaisyu_d: [46, 62]
+    kaizo_n: [-10, 28]
+    kaizo_d: [2, 28]
+    map_n: [13, 110]
+    map_d: [22, 134]
+    ensyuf_n: [11, 113]
+    ensyuf_d: [30, 117]
+    ensyue_n: [17, 0]
+    battle_n: [52, 124]
+    battle_d: [48, 157]
+    wed_a: [331, 25]
+    wed_b: [105, 218]
   wiki_id: 
   chinese_name: 
   can_drop: false

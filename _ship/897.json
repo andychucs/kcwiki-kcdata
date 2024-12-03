@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: qowfirmqdsal
-  file_version: ["53", "1", "1108"]
+  filename: qowfirmqdsxs
+  file_version: ["54", "1", "1203"]
   book_table_id: [897]
   book_sinfo: サーモン級のネームシップ、Salmonよ。ちょっとだ<br>け旧式かもだけど、私達姉妹は、全艦無事、あの戦い<br>を戦い抜いたンだから！　凄いでしょ？　アタシなん<br>か、すっごい大金星もあげてんだから！覚えといて！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [124, 121]
-    boko_d: [124, 228]
+    boko_n: [130, 226]
+    boko_d: [199, 57]
     kaisyu_n: [55, -1]
     kaisyu_d: [40, -25]
-    kaizo_n: [145, 1]
-    kaizo_d: [117, 70]
-    map_n: [132, 103]
-    map_d: [145, 192]
-    ensyuf_n: [165, 102]
-    ensyuf_d: [148, 186]
-    ensyue_n: [169, 0]
-    battle_n: [202, 127]
-    battle_d: [171, 231]
-    wed_a: [156, 58]
-    wed_b: [121, 199]
+    kaizo_n: [127, 105]
+    kaizo_d: [187, -129]
+    map_n: [148, 204]
+    map_d: [217, -4]
+    ensyuf_n: [145, 187]
+    ensyuf_d: [213, -46]
+    ensyue_n: [157, 0]
+    battle_n: [166, 225]
+    battle_d: [232, -3]
+    wed_a: [205, -46]
+    wed_b: [133, 204]
   wiki_id: "496"
   chinese_name: 鲑鱼改
   can_drop: false

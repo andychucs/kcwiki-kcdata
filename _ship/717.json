@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: ccuyfhwwjoho
-  file_version: ["81", "1", "1108"]
+  filename: ccuyfhwwjoxs
+  file_version: ["82", "1", "1203"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 12
   graph:
-    boko_n: [169, 232]
-    boko_d: [91, 309]
+    boko_n: [-37, 156]
+    boko_d: [37, 163]
     kaisyu_n: [61, -25]
     kaisyu_d: [67, -31]
-    kaizo_n: [166, 115]
-    kaizo_d: [82, 130]
-    map_n: [166, 214]
-    map_d: [129, 232]
-    ensyuf_n: [169, 184]
-    ensyuf_d: [133, 196]
-    ensyue_n: [180, 0]
-    battle_n: [189, 217]
-    battle_d: [159, 241]
-    wed_a: [186, -43]
-    wed_b: [103, 181]
+    kaizo_n: [-37, 54]
+    kaizo_d: [24, 21]
+    map_n: [-64, 144]
+    map_d: [16, 142]
+    ensyuf_n: [-31, 138]
+    ensyuf_d: [31, 130]
+    ensyue_n: [-40, 0]
+    battle_n: [24, 153]
+    battle_d: [87, 162]
+    wed_a: [370, 18]
+    wed_b: [130, 199]
   wiki_id: "500a"
   chinese_name: 山汐丸改
   can_drop: false
