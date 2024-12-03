@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: sfpnywswxinh
-  file_version: ["57", "1", "1108"]
+  filename: sfpnywswxixs
+  file_version: ["58", "1", "1203"]
   book_table_id: [936, 5774, 5791, 5877]
   book_sinfo: Nevada級戦艦ネームシップ、Nevada！主力戦艦の<br>スタンダード、標準型戦艦として誕生し、数々の主力<br>艦の雛形になったんだから！　真珠湾で南雲機動部隊<br>の大空襲にあって大破したけど、見事に復旧、改修を<br>重ね、戦列に再び参加したわ！ノルマンディー上陸作<br>戦、そして再び太平洋にも！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [5, 0, 3, 4]
     build_time: 300
   graph:
-    boko_n: [189, 214]
-    boko_d: [90, 375]
+    boko_n: [100, 168]
+    boko_d: [90, 234]
     kaisyu_n: [16, 28]
     kaisyu_d: [30, -79]
-    kaizo_n: [193, 97]
-    kaizo_d: [79, 97]
-    map_n: [214, 199]
-    map_d: [79, 259]
-    ensyuf_n: [208, 189]
-    ensyuf_d: [88, 217]
-    ensyue_n: [223, 0]
-    battle_n: [232, 223]
-    battle_d: [115, 280]
-    wed_a: [142, -31]
-    wed_b: [102, 174]
+    kaizo_n: [105, 64]
+    kaizo_d: [70, 85]
+    map_n: [124, 163]
+    map_d: [100, 213]
+    ensyuf_n: [120, 148]
+    ensyuf_d: [94, 199]
+    ensyue_n: [127, 0]
+    battle_n: [141, 184]
+    battle_d: [111, 237]
+    wed_a: [226, -4]
+    wed_b: [114, 201]
   wiki_id: "536"
   chinese_name: 内华达改Mod.2
   can_drop: false

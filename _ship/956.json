@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: tnkvticvcukq
-  file_version: ["51", "1", "1108"]
+  filename: tnkvticvcuxs
+  file_version: ["52", "1", "1203"]
   book_table_id: [956]
   book_sinfo: 夕雲型駆逐艦、その十七番目、早霜です。<br>舞鶴海軍工廠生まれ。だいぶ押し迫った頃に生まれま<br>した。レイテ沖海戦にリンガ泊地から出撃して…色々<br>な光景を見ました。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [78, 139]
-    boko_d: [-33, 153]
+    boko_n: [168, 205]
+    boko_d: [168, 205]
     kaisyu_n: [39, 3]
     kaisyu_d: [58, 18]
-    kaizo_n: [86, 32]
-    kaizo_d: [4, 13]
-    map_n: [105, 122]
-    map_d: [35, 138]
-    ensyuf_n: [100, 115]
-    ensyuf_d: [30, 126]
-    ensyue_n: [110, 0]
-    battle_n: [122, 129]
-    battle_d: [52, 149]
-    wed_a: [235, 30]
-    wed_b: [120, 207]
+    kaizo_n: [172, 93]
+    kaizo_d: [157, 58]
+    map_n: [186, 193]
+    map_d: [186, 193]
+    ensyuf_n: [196, 182]
+    ensyuf_d: [196, 182]
+    ensyue_n: [188, 0]
+    battle_n: [221, 207]
+    battle_d: [221, 207]
+    wed_a: [135, -40]
+    wed_b: [126, 217]
   wiki_id: "556"
   chinese_name: 早霜改二
   can_drop: false
