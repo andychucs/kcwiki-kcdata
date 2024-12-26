@@ -13,8 +13,8 @@ data:
   after_ship_id: 979
   get_mes: <br>
   voice_f: 1
-  filename: ukkfdmbbruxs
-  file_version: ["58", "3", "1203"]
+  filename: ukkfdmbbrugd
+  file_version: ["59", "3", "1226"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 9
   graph:
-    boko_n: [178, 196]
-    boko_d: [190, 208]
+    boko_n: [102, 207]
+    boko_d: [45, 292]
     kaisyu_n: [16, -18]
     kaisyu_d: [22, -61]
-    kaizo_n: [193, 82]
-    kaizo_d: [189, 49]
-    map_n: [202, 162]
-    map_d: [223, 169]
-    ensyuf_n: [196, 148]
-    ensyuf_d: [217, 142]
-    ensyue_n: [217, 0]
-    battle_n: [247, 186]
-    battle_d: [238, 180]
-    wed_a: [145, 10]
-    wed_b: [148, 220]
+    kaizo_n: [112, 85]
+    kaizo_d: [28, 126]
+    map_n: [109, 168]
+    map_d: [49, 244]
+    ensyuf_n: [112, 153]
+    ensyuf_d: [49, 213]
+    ensyue_n: [123, 0]
+    battle_n: [150, 189]
+    battle_d: [70, 241]
+    wed_a: [219, -4]
+    wed_b: [136, 195]
   wiki_id: "522a"
   chinese_name: 稻木改
   can_drop: false

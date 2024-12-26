@@ -13,8 +13,8 @@ data:
   after_ship_id: 949
   get_mes: 氷川丸級貨客船、平安丸と申します。　あらやだ……<br>今は改装されて、特設潜水母艦、平安丸で御座います。<br>提督、私の事もどうぞ、お見知りおき下さいね。
   voice_f: 1
-  filename: mfruqnywdhxs
-  file_version: ["58", "5", "1203"]
+  filename: mfruqnywdhgk
+  file_version: ["59", "5", "1226"]
   book_table_id: [944, 5843, 5873, 5880, 5888]
   book_sinfo: 氷川丸級貨客船三番船平安丸改め、特設潜水母艦平安<br>丸です。ええ、姉はあの氷川丸。この優しい時代にも<br>横浜の地にその姿が健在と聞いています。提督、潜水<br>母艦となった氷川丸の妹、トラックの地で潜水艦たち<br>の作戦を支えた私の事も、どうか覚えておいて下さい<br>ましね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 1]
     build_time: 150
   graph:
-    boko_n: [185, 215]
-    boko_d: [148, 291]
+    boko_n: [106, 210]
+    boko_d: [-28, 273]
     kaisyu_n: [12, 33]
     kaisyu_d: [-13, -22]
-    kaizo_n: [201, 90]
-    kaizo_d: [168, 78]
-    map_n: [214, 195]
-    map_d: [195, 222]
-    ensyuf_n: [210, 184]
-    ensyuf_d: [190, 193]
-    ensyue_n: [214, 0]
-    battle_n: [249, 210]
-    battle_d: [213, 228]
-    wed_a: [127, -47]
-    wed_b: [117, 209]
+    kaizo_n: [112, 84]
+    kaizo_d: [-49, 73]
+    map_n: [103, 192]
+    map_d: [-63, 223]
+    ensyuf_n: [97, 178]
+    ensyuf_d: [-58, 195]
+    ensyue_n: [112, 0]
+    battle_n: [121, 204]
+    battle_d: [-1, 252]
+    wed_a: [229, -28]
+    wed_b: [139, 196]
   wiki_id: "544"
   chinese_name: 平安丸
   can_drop: false

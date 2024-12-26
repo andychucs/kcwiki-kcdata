@@ -8,7 +8,7 @@ data:
   description: 一見普通のクリスマス色の<br>カーペットに見えて、旗艦<br>によっては謎のペットたち<br>が徘徊するという噂のある<br>レアな謎カーペットです。
   rarity: 5
   price: 112240
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: "087"
   file_version: 1
