@@ -13,8 +13,8 @@ data:
   after_ship_id: 948
   get_mes: 日本陸軍特種船、揚陸母艦、熊野丸だ。<br>貴様が提督か。成程……そうか。貴官の指揮下に入ろう。<br>よろしいか！
   voice_f: 1
-  filename: alynfzinygxs
-  file_version: ["65", "1", "1203"]
+  filename: alynfzinygxw
+  file_version: ["66", "1", "1226"]
   book_table_id: [943, 5753, 5769, 5811, 5846, 5893]
   book_sinfo: 全通式飛行甲板を持つ陸軍特種船、М丙型、熊野丸<br>だ。先行の神州丸、あきつ丸をさらに進化させた、航<br>空支援能力を持つ、強襲揚陸艦としての機能を備えて<br>いる。戦局の悪化から、揚陸戦ではなく対潜水護衛空<br>母的な役割を期待された。戦標船構造とはいえ、運用<br>次第だ。提督、頼むぞ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 1]
     build_time: 150
   graph:
-    boko_n: [166, 234]
-    boko_d: [82, 183]
+    boko_n: [-25, 199]
+    boko_d: [130, 189]
     kaisyu_n: [-30, -10]
     kaisyu_d: [33, -66]
-    kaizo_n: [169, 114]
-    kaizo_d: [47, 32]
-    map_n: [178, 189]
-    map_d: [78, 150]
-    ensyuf_n: [175, 187]
-    ensyuf_d: [97, 139]
-    ensyue_n: [188, 0]
-    battle_n: [213, 216]
-    battle_d: [134, 167]
-    wed_a: [172, -51]
-    wed_b: [94, 212]
+    kaizo_n: [-21, 73]
+    kaizo_d: [94, 45]
+    map_n: [-40, 157]
+    map_d: [109, 157]
+    ensyuf_n: [-30, 139]
+    ensyuf_d: [82, 124]
+    ensyue_n: [-43, 0]
+    battle_n: [7, 196]
+    battle_d: [139, 171]
+    wed_a: [366, -16]
+    wed_b: [106, 202]
   wiki_id: "543"
   chinese_name: 熊野丸
   can_drop: true

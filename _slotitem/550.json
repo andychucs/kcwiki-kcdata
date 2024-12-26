@@ -3,34 +3,34 @@ layout: json
 order: 550
 data:
   id: 550
-  sort_no: 0
-  name: 5inch連装両用莢砲
-  type: [1, 1, 1, 16, 0]
-  rare: 3
-  broken: [0, 0, 0, 0]
+  sort_no: 550
+  name: 試製 明星(増加試作機)
+  type: [3, 5, 7, 7, 57]
+  rare: 2
+  broken: [1, 1, 0, 1]
   info: 
   usebull: 0
-  cost: 9
-  distance: 8
+  cost: 2
+  distance: 3
   stats:
     taik: 0
     souk: 0
-    houg: 2
+    houg: 0
     raig: 0
     soku: 0
-    baku: 0
-    tyku: 9
-    tais: 0
+    baku: 4
+    tyku: 0
+    tais: 4
     atap: 0
-    houm: 3
+    houm: 0
     raim: 0
     houk: 0
     raik: 0
     bakk: 0
-    saku: 0
+    saku: 1
     sakb: 0
     luck: 0
-    leng: 2
+    leng: 0
   improvement: 
   chinese_name: 5英寸连装两用荚炮
 ---

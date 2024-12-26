@@ -13,8 +13,8 @@ data:
   after_ship_id: 696
   get_mes: How is everything?<br>あたしは、Atlanta級防空巡洋艦、Atlanta。<br>Brooklyn生まれ。貴方、提督さん？　よろしくね。
   voice_f: 1
-  filename: jzyxyckwrlxs
-  file_version: ["55", "1", "1203"]
+  filename: jzyxyckwrlww
+  file_version: ["56", "1", "1226"]
   book_table_id: [597, 5793]
   book_sinfo: あたし、Atlanta級軽巡、その一番艦、Atlanta。<br>防空巡洋艦Atlantaのほうが通りがいいかなあ。<br>そう。防空巡の代名詞的な対空火力で艦隊防空<br>やっちゃうから！…って、あ、ごめん、夜戦とかは<br>ちょっといいかな。ま、いいじゃない。よろしくね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 3, 1]
     build_time: 60
   graph:
-    boko_n: [31, 199]
-    boko_d: [31, 199]
+    boko_n: [-117, 133]
+    boko_d: [102, 307]
     kaisyu_n: [4, -31]
     kaisyu_d: [46, -67]
-    kaizo_n: [45, 88]
-    kaizo_d: [30, 54]
-    map_n: [57, 169]
-    map_d: [57, 169]
-    ensyuf_n: [54, 180]
-    ensyuf_d: [54, 180]
-    ensyue_n: [58, 0]
-    battle_n: [91, 202]
-    battle_d: [91, 202]
-    wed_a: [292, -22]
-    wed_b: [115, 211]
+    kaizo_n: [-103, -3]
+    kaizo_d: [111, 135]
+    map_n: [-93, 106]
+    map_d: [121, 246]
+    ensyuf_n: [-100, 112]
+    ensyuf_d: [138, 207]
+    ensyue_n: [-127, 0]
+    battle_n: [-46, 115]
+    battle_d: [165, 255]
+    wed_a: [436, 55]
+    wed_b: [106, 151]
   wiki_id: "397"
   chinese_name: 亚特兰大
   can_drop: false
