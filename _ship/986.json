@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 986
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 586
+  name: 白雪改二
+  yomi: しらゆき
+  stype: 2
+  ctype: 12
+  cnum: 2
+  backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: jhsgydsxexgy
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: gyyynfzpqxbc
+  file_version: ["51", "1", "128"]
+  book_table_id: [986]
+  book_sinfo: 特型駆逐艦、２番艦、白雪です。<br>緒戦の数々の作戦に参加しました。<br>その後、増援の部隊を輸送する第八十一号作戦に護衛<br>隊旗艦として参加致しました。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [31, 49]
+    souk: [14, 50]
+    houg: [15, 58]
+    raig: [30, 86]
+    tyku: [36, 83]
+    luck: [17, 77]
+    soku: 10
+    leng: 1
+    kaih: 49
+    tais: 26
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 22
   graph:
-    boko_n: [288, 174]
-    boko_d: [168, 192]
-    kaisyu_n: [48, -24]
-    kaisyu_d: [48, 24]
-    kaizo_n: [180, 108]
-    kaizo_d: [54, 66]
-    map_n: [180, 162]
-    map_d: [84, 156]
-    ensyuf_n: [186, 162]
-    ensyuf_d: [84, 114]
-    ensyue_n: [186, 0]
-    battle_n: [216, 180]
-    battle_d: [108, 156]
-    wed_a: [126, 24]
-    wed_b: [153, 156]
+    boko_n: [201, 87]
+    boko_d: [118, 138]
+    kaisyu_n: [141, -10]
+    kaisyu_d: [119, 34]
+    kaizo_n: [209, -21]
+    kaizo_d: [99, -15]
+    map_n: [227, 60]
+    map_d: [132, 98]
+    ensyuf_n: [221, 47]
+    ensyuf_d: [128, 87]
+    ensyue_n: [226, 0]
+    battle_n: [258, 80]
+    battle_d: [154, 117]
+    wed_a: [133, 86]
+    wed_b: [98, 210]
   wiki_id: 
   chinese_name: 
   can_drop: false
