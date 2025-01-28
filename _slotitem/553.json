@@ -3,26 +3,26 @@ layout: json
 order: 553
 data:
   id: 553
-  sort_no: 0
-  name: 4inch連装両用砲+CIC
+  sort_no: 553
+  name: 10cm連装高角砲改
   type: [1, 1, 1, 16, 0]
-  rare: 4
-  broken: [0, 0, 0, 0]
+  rare: 3
+  broken: [0, 2, 4, 1]
   info: 
   usebull: 0
   cost: 9
   distance: 8
   stats:
     taik: 0
-    souk: 0
-    houg: 5
+    souk: 1
+    houg: 2
     raig: 0
     soku: 0
     baku: 0
-    tyku: 15
+    tyku: 7
     tais: 0
     atap: 0
-    houm: 5
+    houm: 1
     raim: 0
     houk: 0
     raik: 0
@@ -30,7 +30,7 @@ data:
     saku: 0
     sakb: 0
     luck: 0
-    leng: 2
+    leng: 1
   improvement: 
   chinese_name: 4英寸连装两用炮+CIC
 ---
